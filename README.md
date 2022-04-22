@@ -10,3 +10,5 @@
 [![Build_CI - Linux](https://github.com/VINUKONDASAISRINIVAS/M2_Traffic_System/actions/workflows/linux.yml/badge.svg)](https://github.com/VINUKONDASAISRINIVAS/M2_Traffic_System/actions/workflows/linux.yml)
 
 [![Bulid CI - windows](https://github.com/VINUKONDASAISRINIVAS/M2_Traffic_System/actions/workflows/windows.yml/badge.svg)](https://github.com/VINUKONDASAISRINIVAS/M2_Traffic_System/actions/workflows/windows.yml)
+
+[![Git Inspector](https://github.com/VINUKONDASAISRINIVAS/M2_Traffic_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/VINUKONDASAISRINIVAS/M2_Traffic_System/actions/workflows/gitinspector.yml)
