@@ -4,3 +4,5 @@
 
 ![codiga](https://api.codiga.io/project/32920/status/svg)
 ![codiga](https://api.codiga.io/project/32920/score/svg)
+
+[![Code Quality - Cppcheck](https://github.com/VINUKONDASAISRINIVAS/M2_Traffic_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VINUKONDASAISRINIVAS/M2_Traffic_System/actions/workflows/c-cpp.yml)
